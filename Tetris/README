@@ -1,0 +1,10 @@
+It's a complete 2D Tetris Game
+
+top key  : 	change shape/ rotate the piece 90 degree counterclockwise
+left key : 	move left
+right key: 	move right
+down key : 	move down faster
+r        :	restart game
+q        :  exit game
+
+**** when tiles reached the top of the grid, it will restart the game ***
